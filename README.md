@@ -7,7 +7,7 @@ Finally all components are rendered in App.js and viewed by browser.
 ### All components are functional components. 
 
 ### Setup and local run instructions.
- Clone the repository in GitHub desktop or download and extract it.
+ Clone the repository in GitHub desktop or download and extract it. 
  This project is developed by using React.js. 
  Ensure you have installed Node.js to run. 
  Install project dependencies by npm i.
