@@ -1,16 +1,16 @@
 ### Project overview.
 This project is highlighted by list a two shows one is recommanded and upcomming shows.
 where recommended shows are scrolling in horizantal direction and upcomming shows displayed in vertical direction with a grid of three cards.
-Contains ### Header of seperate component inside the ### Header Home(recommended) and Upcomming components heirarchically organised.
+Contains Header of seperate component inside the ### Header Home(recommended) and Upcomming components heirarchically organised.
 In Assests component all images will be stored.
 Finally all components are rendered in App.js and viewed by browser. 
 ### All components are functional components. 
 
 ### Setup and local run instructions.
  Clone the repository in GitHub desktop or download and extract it.
- This project is developed by using ### React.js. 
- Ensure you have installed ### Node.js to run. 
- Install project dependencies by ### npm i.
+ This project is developed by using React.js. 
+ Ensure you have installed Node.js to run. 
+ Install project dependencies by npm i.
  
 ### you can run by using command:
 cd gyangrove
